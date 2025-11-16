@@ -10,7 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "serve": "^11.3.0",
     "uuid": "^7.0.3"
   },
@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "debug": "^4.1.1",
-    "eslint": "^6.8.0",
+    "eslint": "^9.39.1",
     "eslint-config-cheminfo-react": "^4.0.0",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-jest": "^23.8.2",
